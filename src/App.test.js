@@ -9,5 +9,5 @@ import App from './App';
 // });
 
 test('this needs to be prettier.', () => {
-  expect(4).toBe(4)
+  expect(6).toBe(4)
 })
